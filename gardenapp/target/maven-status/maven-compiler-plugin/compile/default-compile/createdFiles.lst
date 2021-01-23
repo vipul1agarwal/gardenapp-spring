@@ -1,0 +1,6 @@
+com/vip/gardenapp/dao/LocationsRepository.class
+com/vip/gardenapp/model/CoOrdinates.class
+com/vip/gardenapp/service/ArduinoMoveService.class
+com/vip/gardenapp/dto/Locations.class
+com/vip/gardenapp/controller/SampleTestController.class
+com/vip/gardenapp/controller/Application.class
